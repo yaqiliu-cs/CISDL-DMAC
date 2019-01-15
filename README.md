@@ -23,4 +23,16 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+- Linux
+- Python 2
+- CPU or NVIDIA GPU + CUDA
+
+### Installation
+
+- Install PyTorch 0.4+ and torchvision from http://pytorch.org and OpenCV 3.
+
+- Clone this repo:
+```bash
+git clone https://github.com/yaqiliu-cs/CISDL-DMAC
+cd CISDL-DMAC
+```
