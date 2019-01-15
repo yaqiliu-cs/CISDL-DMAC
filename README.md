@@ -49,9 +49,16 @@ python demo.py im1_1.jpg im1_2.jpg
 
 You can generate sufficient synthetic image pairs for training by running "combine_generation_train.m" based on the [MatlabAPI](https://github.com/cocodataset/cocoapi) of [the MS COCO dataset](http://cocodataset.org/#download).
 
-- Training based the single spatial cross-entropy loss
+Changing training paths and lists to your generated training sets, you can train your own DMAC and DMAC-adv models as follows:
+
+- Training based on the single spatial cross-entropy loss
 ```bash
 python train_ce_script.py
+```
+
+- Optimizing based on the multi-task loss
+```bash
+python train_adversary_script.py
 ```
 
 ### DMAC test
