@@ -87,5 +87,6 @@ python test_coco_dmvn.py
 **Yaqi Liu**
 1. State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences, Beijing 100093, China.
 2. School of Cyber Security, University of Chinese Academy of Sciences, Beijing 100093, China.
+
 E-mail: liuyaqi@iie.ac.cn
 
