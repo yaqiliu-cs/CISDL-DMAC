@@ -53,3 +53,6 @@ You can generate sufficient synthetic image pairs for training by running "combi
 ```bash
 python train_ce_script.py
 ```
+
+### DMAC test
+Download our generated [Combination Sets](https://drive.google.com/open?id=1LcoojC4T9oED6r-MuynUWKn11jihllVm).
