@@ -36,3 +36,20 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 git clone https://github.com/yaqiliu-cs/CISDL-DMAC
 cd CISDL-DMAC
 ```
+
+### DMAC demo
+
+- You can run a simple demo:
+```bash
+python demo.py im1_1.jpg im1_2.jpg
+```
+
+### DMAC train
+- Training Data Preparation
+
+You can generate sufficient synthetic image pairs for training by running "combine_generation_train.m" based on the [MatlabAPI](https://github.com/cocodataset/cocoapi) of [the MS COCO dataset](http://cocodataset.org/#download).
+
+- Training based the single spatial cross-entropy loss
+```bash
+python train_ce_script.py
+```
