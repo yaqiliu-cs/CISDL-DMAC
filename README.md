@@ -63,3 +63,21 @@ python train_adversary_script.py
 
 ### DMAC test
 Download our generated [Combination Sets](https://drive.google.com/open?id=1LcoojC4T9oED6r-MuynUWKn11jihllVm).
+
+- Test DMAC-adv model
+```bash
+python test_coco.py
+```
+
+- Test DMAC-adv model with a sliding window based matching strategy
+```bash
+python test_coco_slide.py
+```
+
+### DMVN test
+Download our generated [Combination Sets](https://drive.google.com/open?id=1LcoojC4T9oED6r-MuynUWKn11jihllVm).
+
+- Test DMVN-BN model
+```bash
+python test_coco_dmvn.py
+```
