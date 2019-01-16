@@ -25,7 +25,7 @@ The code was written and supported by [Yaqi Liu](https://github.com/yaqiliu-cs).
 
 - Linux
 - Python 2
-- CPU or NVIDIA GPU + CUDA
+- NVIDIA GPU + CUDA
 
 ### Installation
 
