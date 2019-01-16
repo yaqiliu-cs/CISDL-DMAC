@@ -38,7 +38,7 @@ cd CISDL-DMAC
 ```
 
 ### Pre-trained models
-Download our pretrained [DMAC-adv](https://drive.google.com/open?id=1NDNTrFbrJV0MgV7f780lGuya79_l4I8f) and [DMVN-BN](https://drive.google.com/open?id=1hu9tO-NbCMRmuFEKi0aFHYGDjPs4hGxO) models.
+Download our pre-trained [DMAC-adv](https://drive.google.com/open?id=1NDNTrFbrJV0MgV7f780lGuya79_l4I8f) and [DMVN-BN](https://drive.google.com/open?id=1hu9tO-NbCMRmuFEKi0aFHYGDjPs4hGxO) models.
 
 ### DMAC demo
 
