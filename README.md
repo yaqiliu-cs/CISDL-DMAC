@@ -64,7 +64,7 @@ python train_ce_script.py
 python train_adversary_script.py
 ```
 
-### Generated datasets
+### Generated testing sets
 - [Combination Sets](https://drive.google.com/open?id=1LcoojC4T9oED6r-MuynUWKn11jihllVm).
 - [Generated sets for invariance analyses](https://drive.google.com/open?id=1rk81lJ3McO9rO6Ktchqly7fJ3U0p8uuC).
 
