@@ -4,7 +4,7 @@ Constrained image splicing detection and localization (CISDL) is a newly propose
 
 ## Citation
 
-The code is for **Research Use Only**. If you use this code for your research, please cite our paper.
+The code is for **Research Use Only**. If you use this code for your research, please cite our paper (The formal citation will be updated in the future).
 
 ```
 @article{liu2018adversarial,
