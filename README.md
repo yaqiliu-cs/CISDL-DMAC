@@ -7,11 +7,11 @@ Constrained image splicing detection and localization (CISDL) is a newly propose
 The code is for **Research Use Only**. If you use this code for your research, please cite our paper (The formal citation will be updated in the future).
 
 ```
-@article{liu2018adversarial,
-  title={Adversarial Learning for Image Forensics Deep Matching with Atrous Convolution},
-  author={Liu, Yaqi and Zhao, Xianfeng and Zhu, Xiaobin and Cao, Yun},
-  journal={arXiv preprint arXiv:1809.02791},
-  year={2018}
+@article{liuyaqi2019tifs,
+  title={Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution},
+  author={Liu, Yaqi and Zhu, Xiaobin and Zhao, Xianfeng and Cao, Yun},
+  journal={{IEEE} Trans. Inf. Forensics Security},
+  year={2019}
 }
 ```
 
