@@ -147,8 +147,8 @@ def fast_hist(a, b, n):
 def get_NMM(hist,gt):
     gt_size = float(np.sum(gt))
     tp_size = float(hist[1,1])
-    fn_size = float(hist[0,1])
-    fp_size = float(hist[1,0])
+    fn_size = float(hist[1,0])
+    fp_size = float(hist[0,1])
     if gt_size == 0:
         return 0
     nmm = (tp_size - fn_size - fp_size)/gt_size
@@ -159,8 +159,8 @@ def get_NMM(hist,gt):
 def get_MCC(hist):
     tp = float(hist[1,1])
     tn = float(hist[0,0])
-    fn = float(hist[0,1])
-    fp = float(hist[1,0])
+    fn = float(hist[1,0])
+    fp = float(hist[0,1])
     denominator = math.sqrt((tp+fp)*(tp+fn)*(tn+fp)*(tn+fn))
     if denominator == 0:
         return 0
