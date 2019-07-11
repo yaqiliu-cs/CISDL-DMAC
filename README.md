@@ -13,6 +13,9 @@ The code is for **Research Use Only**. If you use this code for your research, p
   title={Adversarial Learning for Constrained Image Splicing Detection and Localization based on Atrous Convolution},
   author={Liu, Yaqi and Zhu, Xiaobin and Zhao, Xianfeng and Cao, Yun},
   journal={{IEEE} Trans. Inf. Forensics Security},
+  volume={14},
+  number={10},
+  pages={2551--2566},
   year={2019}
 }
 ```
