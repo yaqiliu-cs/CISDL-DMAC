@@ -20,6 +20,19 @@ The code is for **Research Use Only**. If you use this code for your research, p
 }
 ```
 
+We have proposed an improved version named as **AttentionDM**. You can kindly refer to our paper.
+```
+@article{liuyaqi2020access,
+  title={Constrained Image Splicing Detection and Localization With Attention-Aware Encoder-Decoder and Atrous Convolution},
+  author={Liu, Yaqi and Zhao, Xianfeng},
+  journal={IEEE Access},
+  volume={8},
+  pages={6729--6741},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
 ## Getting Started
 
 We provide PyTorch implementations for both DMAC and [DMVN](https://gitlab.com/rex-yue-wu/Deep-Matching-Validation-Network).
